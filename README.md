@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Depend
 ## Usage
 
 ```javascript
-import covarmtk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-covarmtk@deno/mod.js';
+import covarmtk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-covarmtk@v0.1.1-deno/mod.js';
 ```
 
 #### covarmtk( arrays )
@@ -175,7 +175,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import scalar2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-from-scalar@deno/mod.js';
-import covarmtk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-covarmtk@deno/mod.js';
+import covarmtk from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-covarmtk@v0.1.1-deno/mod.js';
 
 // Define array options:
 var opts = {
